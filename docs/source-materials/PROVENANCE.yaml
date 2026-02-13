@@ -1,0 +1,23 @@
+schema_version: '1.0'
+repo: shared-remembrance-gateway
+org: organvm-ii-poiesis
+generated: '2026-02-13T03:33:53.179405+00:00'
+total_materials: 2
+materials:
+- filename: metaverse-hub-app-concept-exploration.pdf
+  source_path: /Users/4jp/Workspace/shared-rememberance-gateway/metaverse-hub-app-concept-exploration.pdf
+  sha256: 74d10c140884615aeba27b20e2c516eb0a0bda4a790e715f542ad2716e647212
+  size_bytes: 345360
+  last_modified: '2025-11-06T22:46:57+00:00'
+  classification_rule: name_variant_match
+  confidence: 0.95
+  target_subdir: docs/source-materials/research/
+- filename: Metaverse Hub App Concept Exploration.md
+  source_path: /Users/4jp/Workspace/shared-rememberance-gateway/Metaverse Hub App
+    Concept Exploration.md
+  sha256: bebea23ad636b965ea2bef281968781ca547851b2d7da8114ca0616a9bb32c68
+  size_bytes: 54890
+  last_modified: '2025-12-05T23:57:43.510960+00:00'
+  classification_rule: name_variant_match
+  confidence: 0.95
+  target_subdir: docs/source-materials/theory/
