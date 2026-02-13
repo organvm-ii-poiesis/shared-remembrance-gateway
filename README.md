@@ -1,5 +1,13 @@
 # Shared Remembrance Gateway
 
+[![CI](https://github.com/organvm-ii-poiesis/shared-remembrance-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/organvm-ii-poiesis/shared-remembrance-gateway/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-pending-lightgrey)](https://github.com/organvm-ii-poiesis/shared-remembrance-gateway)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/organvm-ii-poiesis/shared-remembrance-gateway/blob/main/LICENSE)
+[![Organ II](https://img.shields.io/badge/Organ-II%20Poiesis-EC4899)](https://github.com/organvm-ii-poiesis)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/organvm-ii-poiesis/shared-remembrance-gateway)
+[![TypeScript](https://img.shields.io/badge/lang-TypeScript-informational)](https://github.com/organvm-ii-poiesis/shared-remembrance-gateway)
+
+
 [![CI](https://img.shields.io/github/actions/workflow/status/organvm-ii-poiesis/shared-remembrance-gateway/ci-minimal.yml?branch=main&style=flat-square&label=CI)](https://github.com/organvm-ii-poiesis/shared-remembrance-gateway/actions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 [![ORGAN-II: Art](https://img.shields.io/badge/ORGAN--II-Art-6a1b9a?style=flat-square)](https://github.com/organvm-ii-poiesis)
