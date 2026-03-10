@@ -1,0 +1,8 @@
+schema_version: '1.0'
+repo: shared-remembrance-gateway
+organ: II
+display_name: "Hosting Home \u2014 privacy-first metaverse platform centering digital\
+  \ home as hub for life simulation, memorial spaces, and creator economy"
+delivery:
+- platform: web_app
+  status: not_started
